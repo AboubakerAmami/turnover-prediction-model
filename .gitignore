@@ -1,0 +1,6 @@
+data/
+notebooks/
+*.xlsx
+*.csv
+*.ipynb
+__pycache__/
