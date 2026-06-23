@@ -263,7 +263,7 @@ with tab1:
             "Seniority",
             min_value=0.0,
             max_value=40.0,
-            value=3.0,
+            value=0.0,
             step=0.5,
             help="Nombre d'années d'ancienneté dans l'entreprise."
         )
@@ -287,7 +287,7 @@ with tab1:
             "Traning Hours",
             min_value=0,
             max_value=100,
-            value=25,
+            value=0,
             step=1,
             help="Nombre total d'heures de formation reçues."
         )
